@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Rahie Gadekar, graduated in the field of Information Technology and currently pursuing Post Graduate Diploma from Amity University.  
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Rahie Gadekar, graduated in the field of Information Technology and completed a Post Graduate Diploma from Amity University.  
 
 - 🔭 I’m currently working on some interesting projects on Computer Vision and Machine Learning
 - 🌱 I’m currently learning Big Data
